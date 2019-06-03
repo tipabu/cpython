@@ -1,0 +1,1 @@
+http.client now parses non-ASCII header names.
